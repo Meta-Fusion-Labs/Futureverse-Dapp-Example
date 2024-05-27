@@ -32,11 +32,12 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- run 'npm i'
+- then run 'npm run dev' to run the app
 
 
 Basic Desktop Application Built by Meta Fusion Labs & Rcadia Ltd
-run 'npm i'
-then 'npm run dev' to run the app
+
 
 ![alt text](public/dapp-Ui.png)
 
