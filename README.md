@@ -35,6 +35,8 @@ export default {
 
 
 Basic Desktop Application Built by Meta Fusion Labs & Rcadia Ltd
+run 'npm i'
+then 'npm run dev' to run the app
 
 ![alt text](public/dapp-Ui.png)
 
