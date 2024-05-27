@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Futureverse Example app provided by Meta Fusion Labs and RCADIA 
+
+# Electron + React + TypeScript + Vite
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
